@@ -15,21 +15,21 @@ We have trained and evaluated BERT-Base and RoBERTa-Large LMs, T5-Large and QA-G
 
 
 ## Saved Models Links:
-### BERT_base_Sentence_Puzzle: **
+### BERT_base_Sentence_Puzzle: *https://drive.google.com/drive/folders/1AkrL6ys_SPuVI3iydk7JUTpkeLSSr7Zs?usp=sharing*
 
-### BERT_base_Word_Puzzle: **
+### BERT_base_Word_Puzzle: *https://drive.google.com/drive/folders/10VycHTNnuTyt9AkuNaiTmrcWTlSO4Rre?usp=sharing*
 
-### RoBERTa_Large_Sentence_Puzzle: **
+### RoBERTa_Large_Sentence_Puzzle: *https://drive.google.com/drive/folders/1uWTGFERtmT895GvKQ4mqZ8iEMCvB0wdw?usp=sharing*
 
-### RoBERTa_Large_Word_Puzzle: **
+### RoBERTa_Large_Word_Puzzle: *https://drive.google.com/drive/folders/1s7kPs_ZP2UJWcr5ZharSAgtNdj0-6hdR?usp=sharing*
 
-### T5_large_sentence_puzzle: **
+### T5_large_sentence_puzzle: *https://drive.google.com/drive/folders/1-iOgEsA2ZdZj3nyram2TCHd9iSSX7NeW?usp=sharing*
 
-### T5_large_word_puzzle: **
+### T5_large_word_puzzle: *https://drive.google.com/drive/folders/1Xxx7LPjHjQhDFd1KvfMFgjVXMuJ_ChHf?usp=sharing*
 
-### QA-GNN_sentence_puzzle: **
+### QA-GNN_sentence_puzzle: *https://drive.google.com/drive/folders/1edmQxKagLplvdpcYCmBal5Cl7hB0KcqQ?usp=sharing*
 
-### QA-GNN_word_puzzle: **
+### QA-GNN_word_puzzle: *https://drive.google.com/drive/folders/1J7CRJRnTY6rrkcfwHsBkXvptxuHiMvFf?usp=sharing*
 
 
 ## Data Information:
