@@ -39,15 +39,20 @@ We have trained and evaluated BERT-Base and RoBERTa-Large LMs, T5-Large and QA-G
 ---------------------------------------
 ## Dataset Examples:
 
-| task | column_name | column_value |
+| Adversarial Strategy | Question | Answers |
 |----------|----------|-------------------------------------------------------------------|
-| PG    | SRC| The budget cannot be adopted against the will of the European Parliament.|
-|          | HYP|  The European Parliament does not approve the budget. |
-|          | Label| Not Hallucination|
-| DM    | SRC| Communistic birds. What is the meaning of communistic? |
-|          | TGT| Living or having their nests in common. |
-|          | HYP|Of or pertaining to communism. |
-|          | Label| Hallucination|
+| Original    | How could a cowboy ride into town on Friday, stay two days, and ride out on Wednesday? | **His horse is named Wednesday.**|
+|          | |  While in town, he stays in bed for two days. |
+|          | | Friday and Saturday are holidays.|
+|          | | None of the above.|
+| Semantic Reconstruction  | How could a cowboy come into town on Friday, stay two days, and then ride away on Wednesday? | **His horse is named Wednesday.**|
+|          | |  While in town, he stays in bed for two days. |
+|          | | Friday and Saturday are holidays.|
+|          | | None of the above.|
+| Context Reconstruction  | How can a pilot take off in Los Angeles on Tuesday, fly for 48 hours, and land in Tokyo on Tuesday? | **The pilot’s airplane is named Tuesday.**|
+|          | | He flies straight for 24h and flies quickly for hours left. |
+|          | | There was a one-week long holiday.|
+|          | | None of the above.|
 
 
 ------------------
